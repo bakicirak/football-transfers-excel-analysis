@@ -30,7 +30,7 @@ The dataset includes:
 - Create a table of net transfer movements by European country
 - Include total number of transfers and total cost for 2021/2022 and 2022/2023
 
-### 4. Top 5 Investment Countries (2021/2022 = 2022/2023)
+### 4. Top 5 Investment Countries (2021/2022 - 2022/2023)
 - Identify top 5 European countries with the highest spending on incoming transfers
 - Visualize:
   - Number of players transferred in
