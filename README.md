@@ -4,9 +4,8 @@ This project involves extensive data analysis of the intricacies and economic pa
 
 ## 📁 Project Structure
 
-- `/data`: Contains the raw dataset covering football transfers for the 2021/2022 and 2022/2023 seasons.
-- `/analysis`: Processed Excel file with cleaned data, summary tables, and calculations.
-- `/visuals`: Visualizations such as transfer fee charts for top countries.
+- `/data.xlsx`: Contains the raw dataset covering football transfers for the 2021/2022 and 2022/2023 seasons.
+- `/Transfer_Analysis_Summary.xlsx`: Processed Excel file with cleaned data, summary tables, and calculations.
 
 ## 📊 Data Description
 
@@ -31,7 +30,7 @@ The dataset includes:
 - Create a table of net transfer movements by European country
 - Include total number of transfers and total cost for 2021/2022 and 2022/2023
 
-### 4. Top 5 Investment Countries (2022/2023)
+### 4. Top 5 Investment Countries (2021/2022 = 2022/2023)
 - Identify top 5 European countries with the highest spending on incoming transfers
 - Visualize:
   - Number of players transferred in
@@ -47,7 +46,6 @@ The dataset includes:
 
 - `data/Football Data.xlsx` → Raw dataset
 - `analysis/Transfer_Analysis_Summary.xlsx` → Final Excel file with all work
-- `visuals/top5_countries_transfer_fees.png` → Exported chart from Excel
 
 ---
 
