@@ -44,8 +44,8 @@ The dataset includes:
 
 ## 📎 Files To Add
 
-- `data/Football Data.xlsx` → Raw dataset
-- `analysis/Transfer_Analysis_Summary.xlsx` → Final Excel file with all work
+- `Data.xlsx` → Raw dataset
+- `Transfer_Analysis_Summary.xlsx` → Final Excel file with all work
 
 ---
 
